@@ -113,15 +113,14 @@ services:
     # A path to an image can also be provided. Note that icon take precedence if both icon and logo are set.
     # logo: "path/to/logo"
     items:
-      - name: "Awesome app"
-        logo: "assets/tools/sample.png"
+      - name: "Traefik"
+        logo: "https://github.com/jagyas/assets/blob/ba2dbfc14259f0fae256df9bb656d4920a98cff9/configs/homer/traefik-logo.png"
         # Alternatively a fa icon can be provided:
         # icon: "fab fa-jenkins"
-        subtitle: "Bookmark example"
-        tag: "app"
-        keywords: "self hosted reddit" # optional keyword used for searching purpose
-        url: "https://www.reddit.com/r/selfhosted/"
-        target: "_blank" # optional html tag target attribute
+        subtitle: "Traefik Dashboard"
+        tag: "core"
+        keywords: "Traefik Proxy" # optional keyword used for searching purpose
+        url: "https://traefik.anylearn.io"
       - name: "Another one"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"

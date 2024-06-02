@@ -114,7 +114,7 @@ services:
     # logo: "path/to/logo"
     items:
       - name: "Traefik"
-        logo: "https://github.com/jagyas/assets/blob/ba2dbfc14259f0fae256df9bb656d4920a98cff9/configs/homer/traefik-logo.png"
+        logo: "https://raw.githubusercontent.com/jagyas/assets/main/configs/homer/traefik-logo.png"
         # Alternatively a fa icon can be provided:
         # icon: "fab fa-jenkins"
         subtitle: "Traefik Dashboard"
